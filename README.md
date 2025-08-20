@@ -22,7 +22,6 @@ Planning to learn in the future: Rust, ReactJS and start mobile app development.
 - [Ekonomik inventory app](https://github.com/PiotrKrzastek/Ekonomik-inwentarz) - School inventory system in development using Python, Flask, HTML, CSS and MongoDB.
 
 ### Contact
-You can reach me at:
 - [Linkedin](https://www.linkedin.com/in/krzastek/)
 - [Codewars](https://www.codewars.com/users/Polkissss)
 
