@@ -1,7 +1,7 @@
 ## Hi, my name is Piotr Krząstek 👋
 Aspiring Full-Stack Web Developer | Python & Flask Enthusiast
 
-I am an aspiring web developer coding in Python using Flask. Passionate about programming since I was young
+I am an aspiring web developer coding in Python using Flask. Passionate about programming since I was young.
 Currently working on Ekonomik school inventory system and building my portfolio piece by piece. Mainly a
 back-end developer but hoping to improve my front-end skills to become a full-fledged full-stack developer!
 
