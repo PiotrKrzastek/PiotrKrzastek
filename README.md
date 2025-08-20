@@ -1,4 +1,4 @@
-## Hi, my name is Piotr Krząstek
+## Hi, my name is Piotr Krząstek 👋
 Aspiring Full-Stack Web Developer | Python & Flask Enthusiast
 
 I am an aspiring web developer coding in Python using Flask. Passionate about programming since I was young
@@ -23,13 +23,12 @@ Planning to learn in the future: Rust, ReactJS and start mobile app development.
 
 ### Contact
 You can reach me at:
-  [Linkedin](https://www.linkedin.com/in/krzastek/)
-  [Codewars](https://www.codewars.com/users/Polkissss)
+- [Linkedin](https://www.linkedin.com/in/krzastek/)
+- [Codewars](https://www.codewars.com/users/Polkissss)
 
 ### Fun fact
 
-I recently started doing some codewars as a hobby you can feel free to add me
-and let's code together!! (Currently 5 kyu)
+I recently started doing some codewars as a hobby you can feel free to add meand let's code together!! (Currently 5 kyu)
 [My Codewars profile](https://www.codewars.com/users/Polkissss)
 
 <!--
