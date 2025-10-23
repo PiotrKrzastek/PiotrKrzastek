@@ -27,7 +27,7 @@ Planning to learn in the future: Rust, ReactJS and start mobile app development.
 
 ### Fun fact
 
-I recently started doing some codewars as a hobby you can feel free to add meand let's code together!! (Currently 5 kyu)
+I recently started doing some codewars as a hobby you can feel free to add meand let's code together!! (Currently 4 kyu)
 [My Codewars profile](https://www.codewars.com/users/Polkissss)
 
 <!--
