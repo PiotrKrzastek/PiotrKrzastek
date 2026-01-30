@@ -26,4 +26,5 @@ I am a backend-focused developer specializing in building functional, data-drive
 
 ### 📫 Let's Connect
 **Website:** [krzastek.com.](https://www.krzastek.com)
+
 **LinkedIn:** [linkedin.com/in/krzastek/.](https://www.linkedin.com/in/krzastek/)
