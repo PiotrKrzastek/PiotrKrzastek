@@ -14,7 +14,7 @@ I am a backend-focused developer specializing in building functional, data-drive
 * **[Personal Portfolio](https://github.com/PiotrKrzastek/Personal-portfolio):** My digital business card showcasing my latest work and roadmap.
 
 ### 🧠 Problem Solving
-* **Codewars:** Currently 4 kyu. I treat code challenges as a daily hobby to keep my algorithmic thinking sharp. View my profile.
+* **Codewars:** Currently 4 kyu. I treat code challenges as a daily hobby to keep my algorithmic thinking sharp. [View my profile](https://www.codewars.com/users/Polkissss).
   
 ### 📫 Let's Connect
 * **Website:** [krzastek.com.](https://www.krzastek.com)
